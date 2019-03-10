@@ -6,6 +6,8 @@ In this project we create some card components with data obtained from an API. T
 
 ## Live Preview
 
+[RoboFriends App PWA](https://imrank1506.github.io/React-RoboFriendsApp-PWA/)
+
 ## Available Scripts
 
 In the project directory, you can run:
